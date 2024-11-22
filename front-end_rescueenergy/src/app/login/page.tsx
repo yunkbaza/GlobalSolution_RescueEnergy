@@ -3,11 +3,10 @@
 export default function LoginPage() {
   return (
     <div className="p-8">
-      <h1 className="text-2xl font-bold mb-4">Seja bem-vindo à RescueEnergy!</h1>
+      <h1 className="text-2xl font-bold mb-6">Seja bem-vindo à RescueEnergy!</h1>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-        {/* Criar nova conta */}
         <div>
-          <h2 className="text-lg font-semibold">Criar minha conta:</h2>
+          <h2 className="text-lg font-semibold mb-4">Criar minha conta:</h2>
           <form className="space-y-4">
             <input
               type="email"
@@ -29,9 +28,8 @@ export default function LoginPage() {
             </button>
           </form>
         </div>
-        {/* Entrar em conta existente */}
         <div>
-          <h2 className="text-lg font-semibold">Entrar na minha conta:</h2>
+          <h2 className="text-lg font-semibold mb-4">Entrar na minha conta:</h2>
           <form className="space-y-4">
             <input
               type="email"
