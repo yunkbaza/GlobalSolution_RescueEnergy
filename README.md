@@ -9,7 +9,7 @@
 
 ### Link Do Vídeo
 #### https://youtu.be/7j1M-o-JJfA
-
+##
 #### Convite: https://github.com/yunkbaza/GlobalSolution_RescueEnergy/invitations
 
 #### Link Python : https://github.com/gitbreno/GS2_Python.git     
